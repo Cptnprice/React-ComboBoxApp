@@ -1,0 +1,26 @@
+.main{
+    width : 70%;
+    height: 700px;
+    margin : auto;
+    margin-top : 10%;
+}
+
+.row, .card{
+    height: 80%;
+}
+
+.dropdown{
+    float: left;
+}
+
+.form-control{
+    width: 30%;
+    float : left;
+}
+
+.content{
+    margin-top : 15px;
+    /* float: left; */
+    /* width : 30%; */
+    text-align : left;
+}
